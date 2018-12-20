@@ -1,2 +1,2 @@
 # MyPython
-Small Python code.
+Small Python code for practice.
