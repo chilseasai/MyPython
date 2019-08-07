@@ -11,5 +11,6 @@ def move(n, a, b, c):
 def test():
     print('hello world')
 
+
 if __name__ == '__main__':
     move(4, 'A', 'B', 'C')
